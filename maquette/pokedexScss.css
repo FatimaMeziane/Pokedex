@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: black;
+  display: flex;
+  width: 100%;
+}
+
+.pokemon img {
+  width: 200px;
+}
+
+.pokemon {
+  text-align: center;
+  color: white;
+  /* width: 45%; */
+  border-radius: 15px;
+  border: 1px solid red;
+}/*# sourceMappingURL=pokedexScss.css.map */
